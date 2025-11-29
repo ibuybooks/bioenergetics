@@ -1,7 +1,7 @@
 # Bioenergetics by Albert Szent-Györgyi
 
 <div align="center">
-  <img src="#" width="350" alt="Book Cover">
+  <img src="https://github.com/user-attachments/assets/64f5a339-4e08-4b9e-9b68-cb8f7a757297" width="350" alt="Book Cover">
   
   <br>
   <br>
